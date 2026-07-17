@@ -59,12 +59,20 @@ I'm an IT Engineering student at **UTE**. Currently, I'm working as a **Develope
 
 <h3 align="center">Ours</h3>
 
+<div align="center">
+
 A web platform developed for my university to manage scholarships and the dual education program.
 Built with **SvelteKit**, **FastAPI**, and **Supabase**, it provides dedicated dashboards for students, coordinators, tutors, and partner companies.
+
+</div>
+
+<div align="center">
 
 **Repositories**
 
 [![Backend](https://img.shields.io/badge/Backend-292D3E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MelaniOlvEsp/becas-ute-api) [![Frontend](https://img.shields.io/badge/Frontend-292D3E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MelaniOlvEsp/becas-ute-app)
+
+</div>
 
 <h2 align="center">Certifications</h2>
 
