@@ -52,6 +52,7 @@ I'm an IT Engineering student at **UTE**. Currently, I'm working as a **Develope
 ![Gmail API](https://img.shields.io/badge/Gmail_API-F07178?style=for-the-badge&logo=gmail&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-89DDFF?style=for-the-badge&logo=sonarqube&logoColor=292D3E)
 ![Docker](https://img.shields.io/badge/Docker-82AAFF?style=for-the-badge&logo=docker&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-C3E88D?style=for-the-badge&logo=swagger&logoColor=292D3E)
 
 </div>
 
