@@ -18,6 +18,8 @@ I'm an IT Engineering student at **UTE**. Currently, I'm working as a **Develope
 
 ![Python](https://img.shields.io/badge/Python-82AAFF?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-F78C6C?style=for-the-badge&logo=openjdk&logoColor=292D3E)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFCB6B?style=for-the-badge&logo=javascript&logoColor=292D3E)
+![TypeScript](https://img.shields.io/badge/TypeScript-89DDFF?style=for-the-badge&logo=typescript&logoColor=292D3E)
 ![SQL](https://img.shields.io/badge/SQL-89DDFF?style=for-the-badge&logo=mysql&logoColor=292D3E)
 ![HTML5](https://img.shields.io/badge/HTML5-F07178?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-82AAFF?style=for-the-badge&logo=css3&logoColor=white)
@@ -30,6 +32,7 @@ I'm an IT Engineering student at **UTE**. Currently, I'm working as a **Develope
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-C3E88D?style=for-the-badge&logo=fastapi&logoColor=292D3E)
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-F78C6C?style=for-the-badge&logo=svelte&logoColor=292D3E)
+![Node.js](https://img.shields.io/badge/Node.js-C3E88D?style=for-the-badge&logo=node.js&logoColor=292D3E)
 
 </div>
 
